@@ -1,0 +1,124 @@
+*{
+  margin:0;
+  padding:0;
+}
+nav{
+     background: linear-gradient(90deg,#ff8480, #d9537b);
+  color:white;
+  padding:20px;
+  
+}
+u {    
+  
+    text-decoration: underline ;
+}
+u:hover{
+	 text-shadow: 2px 2px 5px red;
+         transition: 1.9s;
+         outline: none;
+}
+h1{
+  display:inline;
+  font-family:Cursive;
+  font-size:250%;
+}
+h6{
+     display:inline;
+  font-family:Monospace;
+  font-size:100%;
+}
+
+#intro{
+  margin-left:39%;
+
+}
+body{
+background-color: white-space;
+background-size: cover;
+background-image: url("https://png.pngtree.com/background/20230618/original/pngtree-switzerland-s-prosperity-reflected-in-3d-rendered-piggy-bank-picture-image_3759267.jpg");
+
+}
+div{  
+	  border-radius: 29px;
+	  height:300px;
+      border: 3px solid black;
+	  box-shadow: 5px 10px #888888;
+      padding: 50px;
+      margin-left: auto;
+      margin-right: auto;
+      width: 17em;	
+      background-image: url("data:image/png;base64,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");	
+      background-repeat:repeat;
+      background-size:25%;
+}
+form{
+     background-color:white;
+	 height:100%;
+	 width:100%;
+	 border-radius: 29px;
+	 border: 3px solid white;
+}
+#st{
+     background-color:rgb(135, 206, 235);
+	 font-family:Cursive;
+	 height:10%;
+	 width:18%;
+	 border-radius:600px;
+	 border: 1px solid gray;
+	 margin-left:3%;
+}
+#cl{
+     background-color:#FADCDC;
+	 font-family:Cursive;
+	 height:10%;
+	 width:18%;
+	 border-radius:600px;
+	 border: 1px solid gray;
+     float: right;
+	 margin-right:3%;
+}
+#cl:hover{
+	     color:red;
+		  border: 1px solid coral;
+		        background-color:#FADCDC;
+	 height:12%;
+	 width:20%;
+	 border-radius:600px;
+
+}
+#st:hover{
+	     color:blue;
+		  border: 1px solid coral;
+		       background-color:rgb(135, 206, 235);
+	 height:12%;
+	 width:20%;
+	 border-radius:600px;
+}
+
+input {
+	 font-family:Monospace;
+	 display: flex;
+	 background-color:white;
+	 height:10%;
+	 width:90%;
+	 border-radius:600px;
+	 border: 1px solid gray;
+	padding:10px;
+}
+.inp{
+	margin-left:1%;
+}
+.inp:hover{
+		  border: 3px solid coral;	
+}
+a{
+	color:gray;
+}
+a:hover{
+	     color:gold;
+		  font-size: 20px;
+           text-decoration: none; 		  
+}
+
+
+
