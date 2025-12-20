@@ -1,8 +1,7 @@
 
 # 🏦 Bank of Boubyan – Login Page (HTML & CSS)
 
-
-<img width="1440" height="900" alt="Screenshot 2025-12-20 at 6 23 02 PM" src="https://github.com/user-attachments/assets/9206353b-1267-4b0d-926e-4f9d074c638c" />
+![Uploading Screenshot 2025-12-20 at 7.12.16 PM.png…]()
 
 A **static banking login page UI** built using **HTML and CSS**, created as my **first frontend project** during my internship period.
 
