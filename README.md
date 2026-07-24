@@ -45,11 +45,13 @@
 
 ### 📊 GitHub Graphs
 
+<img src="https://streak-stats.demolab.com?user=karthikmanikandan&theme=radical&hide_border=true&background=0d1f2d&ring=22d3ee&fire=0891b2&currStreakLabel=7c3aed" alt="GitHub Streak"/>
+
 <img src="./langs.svg?v=1" alt="Top Languages" height="185"/>
 
-<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=karthikmanikandan&theme=radical&hide_border=true&background=0d1f2d&ring=22d3ee&fire=0891b2&currStreakLabel=7c3aed" alt="GitHub Streak"/>
+
+
 
 <br/><br/>
 
