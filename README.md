@@ -59,10 +59,7 @@
 
 <br/><br/>
 
-<!-- 🏆 Trophies (local animated SVG — always loads) -->
-<img src="./trophies.svg?v=1" alt="Trophies" width="95%"/>
 
-<br/><br/>
 
 ### 🐍 Watch the snake eat my contributions
 
