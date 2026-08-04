@@ -64,8 +64,7 @@
 
 ### 🐍 Watch the snake eat my contributions
 
-<img src="https://raw.githubusercontent.com/karthikmanikandan/karthikmanikandan/output/github-snake-aqua.svg" alt="Contribution snake"/>
-
+![Dark Snake](https://raw.githubusercontent.com/karthikmanikandan/karthikmanikandan/output/github-snake.svg)
 <br/><br/>
 
 ### 📫 Let's Connect
