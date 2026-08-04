@@ -78,7 +78,7 @@
 
 <br/><br/>
 
-*⭐️ Always learning, always building.* ⚡
+*⭐️⚡ keep learning, keep building.* ⚡⭐️
 
 </div>
 <!-- prompt:
